@@ -1,0 +1,75 @@
+.icon{
+    color: white;
+}
+
+#logo{
+      margin: auto;
+      max-width: 74px;
+      background-color: whitesmoke;
+
+}
+.icon:hover{
+    color: rgb(20, 167, 172);
+}
+.left-container{
+    position: relative;
+    width:auto;
+    height: 583px;
+    border-top-right-radius:502% 244%;
+    background: linear-gradient(90deg,rgb(20, 167, 172),rgb(34, 93, 242));
+    box-shadow: 2px -5px 15px 2px rgb(77 21 73)
+}
+.right-container{
+    position: relative;
+    width: auto;
+    height:583px;
+    border-top-left-radius: 502% 244%;
+    background: linear-gradient(270deg,rgb(20, 167, 172),rgb(34, 93, 242));
+    box-shadow: 2px -5px 15px 2px rgb(77 21 73)
+}
+.but1{
+    background: rgb(77, 122, 248);
+    border-radius: 50%;
+    max-width: 200px;
+    color: white;
+}
+.text1{
+    color: white;
+    filter: drop-shadow(2px 4px 5px black);
+}
+#p1{
+    font-size: xx-small;
+
+}
+h2{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    text-align: center;
+}
+.linkimg:hover{
+    filter: brightness(30%);
+    filter: blur(60%);
+}
+.foottext{
+    filter: brightness(100%);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.ci{
+    height: 150px ;
+    
+}
+.c{
+    filter: brightness(100%);
+    width: 20rem;
+}
+.c:hover{
+    filter: brightness(60%);
+    box-shadow: 4px 2px 6px 3px black;
+}
+.status{
+    color: black;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
